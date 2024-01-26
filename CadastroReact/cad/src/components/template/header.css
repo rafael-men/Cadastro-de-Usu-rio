@@ -1,0 +1,11 @@
+header.header {
+    background-color: rgb(168, 168, 168);
+    padding:0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: 0px 0px 5px 0px black;
+}
+
+.mt-3 {
+    font-size: 1.8em;
+}

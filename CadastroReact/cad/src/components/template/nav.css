@@ -1,0 +1,13 @@
+a {
+    text-decoration: none;
+    display:block;
+    color: white;
+    padding: 15px;
+}
+a:hover {
+    background: linear-gradient(rgb(39, 39, 80),rgb(85, 81, 81));
+}
+aside.menu-area {
+    background-color: var(--bg-dark);
+    box-shadow: 2px 10px 0 px rgb(48, 1, 53);
+}

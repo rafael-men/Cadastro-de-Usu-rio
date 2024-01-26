@@ -1,0 +1,14 @@
+.btn.btn-primary {
+    margin-right: 20px;
+    border-radius: 20px;
+    background-color: rgb(0, 8, 78);
+}
+
+.btn.btn-primary:hover {
+    background-color: rgb(60, 10, 197);
+}
+
+.btn.btn-secondary.ml-2 {
+    border-radius: 20px;
+
+}
